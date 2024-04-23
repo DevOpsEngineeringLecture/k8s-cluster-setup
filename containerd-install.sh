@@ -1,5 +1,7 @@
 #!/bin/bash
 
+echo "This script is meant to be executed on all nodes."
+
 echo "Make script executable using chmod u+x FILE_NAME.sh"
 
 echo "Containerd installation script"
